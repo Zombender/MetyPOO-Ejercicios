@@ -1,4 +1,4 @@
-package models;
+package semana_1.models;
 
 public class Student{
     private String cif;

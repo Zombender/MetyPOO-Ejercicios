@@ -1,4 +1,4 @@
-package NumeroMayor;
+package semana_1.NumeroMayor;
 import java.util.Scanner;
 public class NumeroMayor {
     public static void main(String[] args) {

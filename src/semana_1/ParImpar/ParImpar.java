@@ -1,4 +1,4 @@
-package ParImpar;
+package semana_1.ParImpar;
 import java.util.Scanner;
 public class ParImpar{
     public static void main(String[] args){

@@ -1,7 +1,7 @@
-package Estudiante;
+package semana_1.Estudiante;
 
 import java.util.Scanner;
-import models.Student;
+import semana_1.models.Student;
 public class Main{
     public static void main(String[] args){
         System.out.println("\u001B[32m");

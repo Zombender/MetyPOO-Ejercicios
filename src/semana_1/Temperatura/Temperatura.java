@@ -1,4 +1,4 @@
-package Temperatura;
+package semana_1.Temperatura;
 import java.util.Scanner;
 public class Temperatura {
     public static void main(String[] args) {

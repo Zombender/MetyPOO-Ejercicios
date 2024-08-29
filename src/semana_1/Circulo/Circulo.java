@@ -1,4 +1,4 @@
-package Circulo;
+package semana_1.Circulo;
 
 import java.util.Scanner;
 
