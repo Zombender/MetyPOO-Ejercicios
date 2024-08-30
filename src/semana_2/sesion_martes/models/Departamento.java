@@ -1,4 +1,4 @@
-package semana_2.models;
+package semana_2.sesion_martes.models;
 
 import java.util.ArrayList;
 import java.util.List;

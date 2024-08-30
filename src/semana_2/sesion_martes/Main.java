@@ -1,9 +1,9 @@
-package semana_2;
+package semana_2.sesion_martes;
 
-import semana_2.models.Curso;
-import semana_2.models.Departamento;
-import semana_2.models.Profesor;
-import semana_2.models.Biblioteca;
+import semana_2.sesion_martes.models.Curso;
+import semana_2.sesion_martes.models.Departamento;
+import semana_2.sesion_martes.models.Profesor;
+import semana_2.sesion_martes.models.Biblioteca;
 
 import java.util.Scanner;
 public class Main{
